@@ -1,1 +1,2 @@
 hello Git, It's the first meeting!
+This is the first time to write this by hong
